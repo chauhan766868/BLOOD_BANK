@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+# Uncomment the line below if you're working with npm
+# /npm-debug.log
+# Uncomment the line below if you're working with yarn
+# /yarn-error.log
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
